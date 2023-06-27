@@ -11,3 +11,5 @@ Grecia Coronado = Flask web application and deployment part
 ~The URL of the deployed web application is = http://ec2-3-144-251-154.us-east-2.compute.amazonaws.com:8080/
 
 ~You can see the reposotory in = https://github.com/GreciaCoronado/CCTB_ML_Final_Project.git
+
+Git hub project = https://github.com/GreciaCoronado/CCTB_ML_Final_Project/tree/3be56cecdd8fe457547a2e30d8831b0ff00f851d
