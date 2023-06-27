@@ -4,4 +4,5 @@ There are limits to this however we can only achieve about 93% accuracy and then
 
 Team members:
 Wesley = Machine learning part
+
 Grecia Coronado = Flask web application and deployment part
