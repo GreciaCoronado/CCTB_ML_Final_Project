@@ -6,6 +6,6 @@ Wesley = Machine learning part
 
 Grecia Coronado = Flask web application and deployment part
 
-~The youtube link is = 
+~The youtube link is = https://youtu.be/66IdF9MOeUw
 
 ~The URL of the deployed web application is = http://ec2-3-144-251-154.us-east-2.compute.amazonaws.com:8080/
